@@ -1,2 +1,2 @@
 # MDST
-checkpoint 0 and checkpoint 1 for MDST application
+checkpoint 0, checkpoint 1, ML + DL challenges for MDST application
